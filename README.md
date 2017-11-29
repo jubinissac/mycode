@@ -6,4 +6,4 @@
 “Barely 1 per cent of the world's population has travelled to Antarctica.” ,
 “99 per cent of Libya is a desert.” ,
 “If you were a flight attendant in the 1930s, you wouldn't be allowed to weigh more than 52 kg. “ ,
-“Saudi Arabia has no rivers. None. This makes it the only country in the world with this 'situation.” ,
+“Saudi Arabia has no rivers. None. This makes it the only country in the world with this 'situation.” 
